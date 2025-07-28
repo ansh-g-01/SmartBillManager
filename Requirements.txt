@@ -1,8 +1,0 @@
-streamlit
-pytesseract
-Pillow
-openai  # If using OpenAI LLMs
-requests
-sqlite3  # Not needed in requirements.txt (built-in with Python)
-python-dotenv  # Optional: for API keys / email creds
-opencv-python
